@@ -1,0 +1,7 @@
+# Ignore default build directory
+build/
+
+# Ignore directories and files used by clangd
+.cache/
+.clangd/
+compile_commands.json
